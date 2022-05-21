@@ -27,22 +27,22 @@ global.premium = ['6288270863279'] //ubah jadi nomor mu, note tanda ' gausah di 
 global.ownernomer = '6288270863279' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Danzz.' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'DanzBot-MD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Danzz.' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'DanzzAjah' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'DanzBot-MD 2' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'DanzzBot-MD 2' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'DanzBot'
+global.youtube = 'wa.me/6288270863279'
 global.ig = 'DanzGamtenk'
 global.mygc = 'https://chat.whatsapp.com/EmCBNEjwdOcHzRlGCXKoxK'
-global.myweb = 'github.com/DanzGantevk75'
+global.myweb = 'https://chat.whatsapp.com/EmCBNEjwdOcHzRlGCXKoxK'
 global.email = 'witmawati4@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© DanzBot-MD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Danzz.' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = 'DanzBot-MD 2' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'DanzzAjah' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -83,14 +83,14 @@ global.sp = '⭔'
 //terserah mau ubah apa nggak, note : tanda ' gausah di hapus!
 global.mess = {
 success: '_Done._',
-admin: '_Fitur Khusus Admin Group!_',
+admin: '_Fitur Khusus Admin Group Deck_',
 botAdmin: '_Bot Harus Menjadi Admin Terlebih Dahulu!_',
-owner: '_Fitur Khusus Owner Bot_',
-group: '_Fitur Digunakan Hanya Untuk Group!_',
-private: '_Fitur Digunakan Hanya Untuk Private Chat!_',
-bot: '_Fitur Khusus Pengguna Nomor Bot_',
-wait: '_Sedang Di Proses..._',
-error: '_Fitur Sedang Error!_',
+owner: '_Fitur Khusus Owner DanzBot-MD 2_',
+group: '_Fitur Digunakan Hanya Untuk Group Deck_',
+private: '_Fitur Digunakan Hanya Untuk Private Chat Deck_',
+bot: '_Fitur Khusus Pengguna Nomor DanzBot-MD 2_',
+wait: '_Semdang Samya Proses..._',
+error: '_Fitur Error Cuyy_',
 endLimit: '_Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12_',
 }
 
