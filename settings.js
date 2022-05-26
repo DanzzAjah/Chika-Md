@@ -22,14 +22,14 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6288270863279','6288270863279','6288270863279'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6288270863279'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6288270863279' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6281336093801','6281336093801','6281336093801'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6281336093801'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6281336093801' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'DanzzAjah' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'DanzBot-MD 2' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'DanzzBot-MD 2' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Danzz.' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Bot Rian' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Bot Rian' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
@@ -41,8 +41,8 @@ global.email = 'witmawati4@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = 'DanzBot-MD 2' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'DanzzAjah' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = 'Bot Rian' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Danzz' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
